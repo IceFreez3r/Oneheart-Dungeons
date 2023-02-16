@@ -1,0 +1,12 @@
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/root"}'}}] run function ohd:dungeons/4_the_void/root
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/bridge_left"}'}}] run function ohd:dungeons/4_the_void/room/bridge_left
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/bridge_right"}'}}] run function ohd:dungeons/4_the_void/room/bridge_right
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/circle"}'}}] run function ohd:dungeons/4_the_void/room/circle
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/cross"}'}}] run function ohd:dungeons/4_the_void/room/cross
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/double_loot"}'}}] run function ohd:dungeons/4_the_void/room/double_loot
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/endermite_spawner"}'}}] run function ohd:dungeons/4_the_void/room/endermite_spawner
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/floating"}'}}] run function ohd:dungeons/4_the_void/room/floating
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/glow_squid_pool"}'}}] run function ohd:dungeons/4_the_void/room/glow_squid_pool
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/infinity_room"}'}}] run function ohd:dungeons/4_the_void/room/infinity_room
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/jump"}'}}] run function ohd:dungeons/4_the_void/room/jump
+execute if entity @s[nbt={data:{CustomName:'{"text":"4_the_void/room/sculk_loot"}'}}] run function ohd:dungeons/4_the_void/room/sculk_loot
