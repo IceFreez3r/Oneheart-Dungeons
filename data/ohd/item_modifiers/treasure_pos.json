@@ -1,0 +1,20 @@
+[
+    {
+        "function": "minecraft:copy_nbt",
+        "source": {
+            "type": "minecraft:storage",
+            "source": "minecraft:ohd"
+        },
+        "ops": [
+            {
+                "source": "TreasurePos",
+                "target": "LodestonePos",
+                "op": "replace"
+            }
+        ]
+    },
+    {
+        "function": "minecraft:set_nbt",
+        "tag": "{ohdTreasureCompass:0, LodestoneTracked: 0, LodestoneDimension: \"minecraft:overworld\"}"
+    }
+]

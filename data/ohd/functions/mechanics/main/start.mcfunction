@@ -1,3 +1,4 @@
+tag @a remove ohd.dead_player
 # start dungeon generation
 function dg:_demo
 # tp players to spawn points
