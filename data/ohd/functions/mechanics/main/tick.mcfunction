@@ -4,4 +4,5 @@ execute as @a[tag=ohd.dead_player,gamemode=spectator] run function ohd:mechanics
 execute unless entity @a[tag=!ohd.dead_player] run function ohd:mechanics/main/stop
 execute unless entity @a[tag=!ohd.dead_player] run function ohd:mechanics/main/start
 
+function ohd:mechanics/life_saver/tick
 function ohd:mechanics/treasure/tick
